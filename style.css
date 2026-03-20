@@ -1,0 +1,9 @@
+
+body { font-family: Arial, sans-serif; background:#f6f6f7; color:#222; margin:0; padding:0; }
+header { background:#ddd; padding:25px; text-align:center; font-size:28px; letter-spacing:1px; }
+.description { padding:20px; max-width:800px; margin:auto; line-height:1.6; }
+.topics { display:flex; justify-content:center; gap:20px; margin:20px; flex-wrap:wrap; }
+.topics a { background:#fff; padding:10px 15px; border-radius:6px; text-decoration:none; border:1px solid #ccc; }
+h1 { color:#333; }
+h2 { color:#444; margin-top:20px; }
+a { text-decoration:none; color:#333; }
